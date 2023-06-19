@@ -1,6 +1,12 @@
 #Made By: Alex Canning, Carter Belnap, Hayden
 #Date: May 23 2023
 #Purpose: Room file, runs all of our combat, shop, and boss rooms.
+#MAKE ENIMIES AND BOSS READ DATABASE WHEN DRAWING
+#FIX ATTACK DEF(DUSOME HELP?)
+#DEATH SCREEN
+#BOSS BATTLE
+#
+#SOUND?
 
 #Imports
 import pygame,sys
